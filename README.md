@@ -4,7 +4,7 @@
 
 ## CURRENTLY UNTESTED AND NOT BASED ON REAL MEASUREMENTS
 
-USB/QMK atmega32u4 pcb for NEC PC 8801 mk II sr with MX/Alps/SMK/NEC switch support, plus WS2812B addressable LED & buzzer support.  
+USB/QMK atmega32u4 pcb for NEC PC 8801 mk II [sr] with MX/Alps/Futaba MA switch support, plus WS2812B addressable LED & buzzer support.  
 
 Released without warranty, use at your own risk.  Check your layout carefully too.
 
