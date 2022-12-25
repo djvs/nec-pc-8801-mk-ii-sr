@@ -526,11 +526,11 @@
         )
       )
     )
-    (symbol "MX_Alps_Hybrid:MX-NoLED" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (symbol "MX_Alps_Hybrid:mx-alps-fut" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
       (property "Reference" "MX" (at -0.635 3.81 0)
         (effects (font (size 1.524 1.524)))
       )
-      (property "Value" "MX-NoLED" (at -0.635 1.27 0)
+      (property "Value" "mx-alps-fut" (at -0.635 1.27 0)
         (effects (font (size 0.508 0.508)))
       )
       (property "Footprint" "" (at -15.875 -0.635 0)
@@ -539,7 +539,7 @@
       (property "Datasheet" "" (at -15.875 -0.635 0)
         (effects (font (size 1.524 1.524)) hide)
       )
-      (symbol "MX-NoLED_0_0"
+      (symbol "mx-alps-fut_0_0"
         (rectangle (start -2.54 2.54) (end 1.27 -1.27)
           (stroke (width 0) (type default))
           (fill (type none))
@@ -568,7 +568,7 @@
           (effects (font (size 0.762 0.762)) (justify right))
         )
       )
-      (symbol "MX-NoLED_1_1"
+      (symbol "mx-alps-fut_1_1"
         (pin passive line (at 3.81 1.27 180) (length 2.54)
           (name "COL" (effects (font (size 0 0))))
           (number "1" (effects (font (size 0 0))))
@@ -3794,13 +3794,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 161.29 46.99 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 161.29 46.99 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000061242a16)
     (property "Reference" "SW_STP_1" (at 162.1282 41.3258 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 162.1282 43.2054 0)
+    (property "Value" "mx-alps-fut" (at 162.1282 43.2054 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 145.415 47.625 0)
@@ -3814,7 +3814,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_STP_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_STP_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -3941,13 +3941,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 179.07 46.99 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 179.07 46.99 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006125bb43)
     (property "Reference" "SW_F1_1" (at 179.9082 41.3258 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 179.9082 43.2054 0)
+    (property "Value" "mx-alps-fut" (at 179.9082 43.2054 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 163.195 47.625 0)
@@ -3961,7 +3961,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_F1_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_F1_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -3993,13 +3993,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 195.58 46.99 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 195.58 46.99 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000061261aba)
     (property "Reference" "SW_F2_1" (at 196.4182 41.3258 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 196.4182 43.2054 0)
+    (property "Value" "mx-alps-fut" (at 196.4182 43.2054 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 179.705 47.625 0)
@@ -4013,7 +4013,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_F2_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_F2_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -4045,13 +4045,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 213.36 46.99 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 213.36 46.99 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000061261ac7)
     (property "Reference" "SW_F3_1" (at 214.1982 41.3258 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 214.1982 43.2054 0)
+    (property "Value" "mx-alps-fut" (at 214.1982 43.2054 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 197.485 47.625 0)
@@ -4065,7 +4065,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_F3_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_F3_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -4097,13 +4097,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 231.14 46.99 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 231.14 46.99 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000061266828)
     (property "Reference" "SW_F4_1" (at 231.9782 41.3258 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 231.9782 43.2054 0)
+    (property "Value" "mx-alps-fut" (at 231.9782 43.2054 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 215.265 47.625 0)
@@ -4117,7 +4117,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_F4_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_F4_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -4149,13 +4149,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 248.92 46.99 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 248.92 46.99 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000061266835)
     (property "Reference" "SW_F5_1" (at 249.7582 41.3258 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 249.7582 43.2054 0)
+    (property "Value" "mx-alps-fut" (at 249.7582 43.2054 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 233.045 47.625 0)
@@ -4169,7 +4169,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_F5_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_F5_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -4201,13 +4201,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 265.43 46.99 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 265.43 46.99 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000061266842)
     (property "Reference" "SW_RLU_1" (at 266.2682 41.3258 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 266.2682 43.2054 0)
+    (property "Value" "mx-alps-fut" (at 266.2682 43.2054 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 249.555 47.625 0)
@@ -4221,7 +4221,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_RLU_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_RLU_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -4253,13 +4253,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 283.21 46.99 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 283.21 46.99 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006126684f)
     (property "Reference" "SW_RLD_1" (at 284.0482 41.3258 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 284.0482 43.2054 0)
+    (property "Value" "mx-alps-fut" (at 284.0482 43.2054 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 267.335 47.625 0)
@@ -4273,7 +4273,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_RLD_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_RLD_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -4305,13 +4305,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 300.99 46.99 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 300.99 46.99 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006126a47a)
     (property "Reference" "SW_KPHOME_1" (at 301.8282 41.3258 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 301.8282 43.2054 0)
+    (property "Value" "mx-alps-fut" (at 301.8282 43.2054 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 285.115 47.625 0)
@@ -4325,7 +4325,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_KPHOME_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_KPHOME_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -4564,13 +4564,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 318.77 66.04 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 318.77 66.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006139a613)
     (property "Reference" "SW_KP9_1" (at 319.6082 60.3758 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 319.6082 62.2554 0)
+    (property "Value" "mx-alps-fut" (at 319.6082 62.2554 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 302.895 66.675 0)
@@ -4584,7 +4584,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_KP9_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_KP9_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -4616,13 +4616,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 300.99 66.04 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 300.99 66.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006139a620)
     (property "Reference" "SW_KP7_1" (at 301.8282 60.3758 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 301.8282 62.2554 0)
+    (property "Value" "mx-alps-fut" (at 301.8282 62.2554 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 285.115 66.675 0)
@@ -4636,7 +4636,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_KP7_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_KP7_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -4668,13 +4668,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 265.43 66.04 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 265.43 66.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006139a63a)
     (property "Reference" "SW_YEN_1" (at 266.2682 60.3758 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 266.2682 62.2554 0)
+    (property "Value" "mx-alps-fut" (at 266.2682 62.2554 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 249.555 66.675 0)
@@ -4688,7 +4688,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_YEN_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_YEN_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -4720,13 +4720,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 248.92 66.04 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 248.92 66.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006139a647)
     (property "Reference" "SW_0_1" (at 249.7582 60.3758 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 249.7582 62.2554 0)
+    (property "Value" "mx-alps-fut" (at 249.7582 62.2554 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 233.045 66.675 0)
@@ -4740,7 +4740,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_0_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_0_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -4772,13 +4772,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 231.14 66.04 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 231.14 66.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006139a654)
     (property "Reference" "SW_8_1" (at 231.9782 60.3758 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 231.9782 62.2554 0)
+    (property "Value" "mx-alps-fut" (at 231.9782 62.2554 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 215.265 66.675 0)
@@ -4792,7 +4792,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_8_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_8_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -4824,13 +4824,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 195.58 66.04 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 195.58 66.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006139a661)
     (property "Reference" "SW_4_1" (at 196.4182 60.3758 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 196.4182 62.2554 0)
+    (property "Value" "mx-alps-fut" (at 196.4182 62.2554 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 179.705 66.675 0)
@@ -4844,7 +4844,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_4_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_4_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -4876,13 +4876,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 179.07 66.04 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 179.07 66.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006139a66e)
     (property "Reference" "SW_2_1" (at 179.9082 60.3758 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 179.9082 62.2554 0)
+    (property "Value" "mx-alps-fut" (at 179.9082 62.2554 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 163.195 66.675 0)
@@ -4896,7 +4896,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_2_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_2_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -4928,13 +4928,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 161.29 66.04 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 161.29 66.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006139a67b)
     (property "Reference" "SW_EC_1" (at 162.1282 60.3758 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 162.1282 62.2554 0)
+    (property "Value" "mx-alps-fut" (at 162.1282 62.2554 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 145.415 66.675 0)
@@ -4948,19 +4948,19 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_EC_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_EC_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 213.36 66.04 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 213.36 66.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006139a692)
     (property "Reference" "SW_6_1" (at 214.1982 60.3758 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 214.1982 62.2554 0)
+    (property "Value" "mx-alps-fut" (at 214.1982 62.2554 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 197.485 66.675 0)
@@ -4974,7 +4974,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_6_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_6_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -5032,13 +5032,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 318.77 85.09 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 318.77 85.09 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000061407a44)
     (property "Reference" "SW_KP6_1" (at 319.6082 79.4258 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 319.6082 81.3054 0)
+    (property "Value" "mx-alps-fut" (at 319.6082 81.3054 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 302.895 85.725 0)
@@ -5052,7 +5052,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_KP6_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_KP6_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -5084,13 +5084,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 300.99 85.09 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 300.99 85.09 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000061407a51)
     (property "Reference" "SW_KP4_1" (at 301.8282 79.4258 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 301.8282 81.3054 0)
+    (property "Value" "mx-alps-fut" (at 301.8282 81.3054 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 285.115 85.725 0)
@@ -5104,7 +5104,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_KP4_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_KP4_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -5136,13 +5136,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 265.43 85.09 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 265.43 85.09 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000061407a6b)
     (property "Reference" "SW_FC_1" (at 266.2682 79.4258 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 266.2682 81.3054 0)
+    (property "Value" "mx-alps-fut" (at 266.2682 81.3054 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 249.555 85.725 0)
@@ -5156,7 +5156,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_FC_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_FC_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -5188,13 +5188,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 248.92 85.09 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 248.92 85.09 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000061407a78)
     (property "Reference" "SW_P_1" (at 249.7582 79.4258 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 249.7582 81.3054 0)
+    (property "Value" "mx-alps-fut" (at 249.7582 81.3054 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 233.045 85.725 0)
@@ -5208,7 +5208,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_P_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_P_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -5240,13 +5240,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 231.14 85.09 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 231.14 85.09 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000061407a85)
     (property "Reference" "SW_I_1" (at 231.9782 79.4258 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 231.9782 81.3054 0)
+    (property "Value" "mx-alps-fut" (at 231.9782 81.3054 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 215.265 85.725 0)
@@ -5260,7 +5260,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_I_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_I_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -5292,13 +5292,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 195.58 85.09 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 195.58 85.09 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000061407a92)
     (property "Reference" "SW_R_1" (at 196.4182 79.4258 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 196.4182 81.3054 0)
+    (property "Value" "mx-alps-fut" (at 196.4182 81.3054 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 179.705 85.725 0)
@@ -5312,7 +5312,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_R_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_R_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -5344,13 +5344,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 179.07 85.09 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 179.07 85.09 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000061407a9f)
     (property "Reference" "SW_W_1" (at 179.9082 79.4258 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 179.9082 81.3054 0)
+    (property "Value" "mx-alps-fut" (at 179.9082 81.3054 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 163.195 85.725 0)
@@ -5364,7 +5364,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_W_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_W_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -5396,13 +5396,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 161.29 85.09 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 161.29 85.09 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000061407aac)
     (property "Reference" "SW_TAB_1" (at 162.1282 79.4258 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 162.1282 81.3054 0)
+    (property "Value" "mx-alps-fut" (at 162.1282 81.3054 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 145.415 85.725 0)
@@ -5416,19 +5416,19 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_TAB_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_TAB_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 213.36 85.09 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 213.36 85.09 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000061407ac3)
     (property "Reference" "SW_Y_1" (at 214.1982 79.4258 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 214.1982 81.3054 0)
+    (property "Value" "mx-alps-fut" (at 214.1982 81.3054 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 197.485 85.725 0)
@@ -5442,7 +5442,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_Y_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_Y_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -5500,13 +5500,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 318.77 104.14 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 318.77 104.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000061407ad7)
     (property "Reference" "SW_KP3_1" (at 319.6082 98.4758 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 319.6082 100.3554 0)
+    (property "Value" "mx-alps-fut" (at 319.6082 100.3554 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 302.895 104.775 0)
@@ -5520,7 +5520,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_KP3_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_KP3_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -5552,13 +5552,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 300.99 104.14 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 300.99 104.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000061407ae4)
     (property "Reference" "SW_KP1_1" (at 301.8282 98.4758 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 301.8282 100.3554 0)
+    (property "Value" "mx-alps-fut" (at 301.8282 100.3554 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 285.115 104.775 0)
@@ -5572,7 +5572,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_KP1_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_KP1_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -5604,13 +5604,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 283.21 104.14 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 283.21 104.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000061407af1)
     (property "Reference" "SW_ED_1" (at 284.0482 98.4758 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 284.0482 100.3554 0)
+    (property "Value" "mx-alps-fut" (at 284.0482 100.3554 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 267.335 104.775 0)
@@ -5624,7 +5624,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_ED_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_ED_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -5656,13 +5656,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 265.43 104.14 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 265.43 104.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000061407afe)
     (property "Reference" "SW_COL_1" (at 266.2682 98.4758 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 266.2682 100.3554 0)
+    (property "Value" "mx-alps-fut" (at 266.2682 100.3554 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 249.555 104.775 0)
@@ -5676,7 +5676,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_COL_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_COL_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -5708,13 +5708,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 248.92 104.14 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 248.92 104.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000061407b0b)
     (property "Reference" "SW_L_1" (at 249.7582 98.4758 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 249.7582 100.3554 0)
+    (property "Value" "mx-alps-fut" (at 249.7582 100.3554 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 233.045 104.775 0)
@@ -5728,7 +5728,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_L_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_L_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -5760,13 +5760,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 231.14 104.14 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 231.14 104.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000061407b18)
     (property "Reference" "SW_J_1" (at 231.9782 98.4758 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 231.9782 100.3554 0)
+    (property "Value" "mx-alps-fut" (at 231.9782 100.3554 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 215.265 104.775 0)
@@ -5780,7 +5780,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_J_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_J_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -5812,13 +5812,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 195.58 104.14 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 195.58 104.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000061407b25)
     (property "Reference" "SW_D_1" (at 196.4182 98.4758 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 196.4182 100.3554 0)
+    (property "Value" "mx-alps-fut" (at 196.4182 100.3554 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 179.705 104.775 0)
@@ -5832,7 +5832,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_D_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_D_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -5864,13 +5864,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 179.07 104.14 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 179.07 104.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000061407b32)
     (property "Reference" "SW_A_1" (at 179.9082 98.4758 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 179.9082 100.3554 0)
+    (property "Value" "mx-alps-fut" (at 179.9082 100.3554 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 163.195 104.775 0)
@@ -5884,7 +5884,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_A_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_A_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -5916,13 +5916,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 161.29 104.14 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 161.29 104.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000061407b3f)
     (property "Reference" "SW_CTL_1" (at 162.1282 98.4758 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 162.1282 100.3554 0)
+    (property "Value" "mx-alps-fut" (at 162.1282 100.3554 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 145.415 104.775 0)
@@ -5936,19 +5936,19 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_CTL_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_CTL_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 213.36 104.14 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 213.36 104.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000061407b56)
     (property "Reference" "SW_G_1" (at 214.1982 98.4758 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 214.1982 100.3554 0)
+    (property "Value" "mx-alps-fut" (at 214.1982 100.3554 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 197.485 104.775 0)
@@ -5962,7 +5962,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_G_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_G_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -6020,13 +6020,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 318.77 123.19 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 318.77 123.19 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-0000614350b5)
     (property "Reference" "SW_KPPER_1" (at 319.6082 117.5258 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 319.6082 119.4054 0)
+    (property "Value" "mx-alps-fut" (at 319.6082 119.4054 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 302.895 123.825 0)
@@ -6040,7 +6040,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_KPPER_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_KPPER_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -6072,13 +6072,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 300.99 123.19 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 300.99 123.19 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-0000614350c2)
     (property "Reference" "SW_KP0_1" (at 301.8282 117.5258 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 301.8282 119.4054 0)
+    (property "Value" "mx-alps-fut" (at 301.8282 119.4054 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 285.115 123.825 0)
@@ -6092,7 +6092,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_KP0_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_KP0_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -6124,13 +6124,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 283.21 123.19 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 283.21 123.19 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-0000614350cf)
     (property "Reference" "SW_RSH_1" (at 284.0482 117.5258 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 284.0482 119.4054 0)
+    (property "Value" "mx-alps-fut" (at 284.0482 119.4054 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 267.335 123.825 0)
@@ -6144,7 +6144,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_RSH_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_RSH_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -6176,13 +6176,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 265.43 123.19 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 265.43 123.19 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-0000614350dc)
     (property "Reference" "SW_AMG_1" (at 266.2682 117.5258 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 266.2682 119.4054 0)
+    (property "Value" "mx-alps-fut" (at 266.2682 119.4054 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 249.555 123.825 0)
@@ -6196,7 +6196,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_AMG_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_AMG_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -6228,13 +6228,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 248.92 123.19 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 248.92 123.19 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-0000614350e9)
     (property "Reference" "SW_GT_1" (at 249.7582 117.5258 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 249.7582 119.4054 0)
+    (property "Value" "mx-alps-fut" (at 249.7582 119.4054 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 233.045 123.825 0)
@@ -6248,7 +6248,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_GT_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_GT_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -6280,13 +6280,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 231.14 123.19 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 231.14 123.19 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-0000614350f6)
     (property "Reference" "SW_M_1" (at 231.9782 117.5258 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 231.9782 119.4054 0)
+    (property "Value" "mx-alps-fut" (at 231.9782 119.4054 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 215.265 123.825 0)
@@ -6300,7 +6300,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_M_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_M_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -6332,13 +6332,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 195.58 123.19 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 195.58 123.19 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000061435103)
     (property "Reference" "SW_C_1" (at 196.4182 117.5258 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 196.4182 119.4054 0)
+    (property "Value" "mx-alps-fut" (at 196.4182 119.4054 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 179.705 123.825 0)
@@ -6352,7 +6352,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_C_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_C_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -6384,13 +6384,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 179.07 123.19 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 179.07 123.19 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000061435110)
     (property "Reference" "SW_Z_1" (at 179.9082 117.5258 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 179.9082 119.4054 0)
+    (property "Value" "mx-alps-fut" (at 179.9082 119.4054 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 163.195 123.825 0)
@@ -6404,7 +6404,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_Z_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_Z_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -6436,13 +6436,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 161.29 123.19 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 161.29 123.19 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006143511d)
     (property "Reference" "SW_LS1_1" (at 162.1282 117.5258 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 162.1282 119.4054 0)
+    (property "Value" "mx-alps-fut" (at 162.1282 119.4054 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 145.415 123.825 0)
@@ -6456,19 +6456,19 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_LS1_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_LS1_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 213.36 123.19 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 213.36 123.19 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000061435134)
     (property "Reference" "SW_B_1" (at 214.1982 117.5258 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 214.1982 119.4054 0)
+    (property "Value" "mx-alps-fut" (at 214.1982 119.4054 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 197.485 123.825 0)
@@ -6482,7 +6482,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_B_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_B_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -6540,13 +6540,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 300.99 142.24 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 300.99 142.24 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000061435155)
     (property "Reference" "SW_KPCOM_1" (at 301.8282 136.5758 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 301.8282 138.4554 0)
+    (property "Value" "mx-alps-fut" (at 301.8282 138.4554 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 285.115 142.875 0)
@@ -6560,7 +6560,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_KPCOM_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_KPCOM_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -6592,13 +6592,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 283.21 142.24 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 283.21 142.24 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000061435162)
     (property "Reference" "SW_RIGHT_1" (at 284.0482 136.5758 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 284.0482 138.4554 0)
+    (property "Value" "mx-alps-fut" (at 284.0482 138.4554 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 267.335 142.875 0)
@@ -6612,7 +6612,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_RIGHT_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_RIGHT_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -6644,13 +6644,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 265.43 142.24 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 265.43 142.24 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006143516f)
     (property "Reference" "SW_LFT_1" (at 266.2682 136.5758 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 266.2682 138.4554 0)
+    (property "Value" "mx-alps-fut" (at 266.2682 138.4554 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 249.555 142.875 0)
@@ -6664,7 +6664,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_LFT_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_LFT_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -6696,13 +6696,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 248.92 142.24 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 248.92 142.24 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006143517c)
     (property "Reference" "SW_SLS_1" (at 249.7582 136.5758 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 249.7582 138.4554 0)
+    (property "Value" "mx-alps-fut" (at 249.7582 138.4554 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 233.045 142.875 0)
@@ -6716,7 +6716,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_SLS_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_SLS_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -6748,13 +6748,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 231.14 142.24 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 231.14 142.24 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000061435189)
     (property "Reference" "SW_SP2_1" (at 231.9782 136.5758 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 231.9782 138.4554 0)
+    (property "Value" "mx-alps-fut" (at 231.9782 138.4554 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 215.265 142.875 0)
@@ -6768,7 +6768,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_SP2_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_SP2_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -6800,13 +6800,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 195.58 142.24 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 195.58 142.24 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000061435196)
     (property "Reference" "SW_ALT_1" (at 196.4182 136.5758 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 196.4182 138.4554 0)
+    (property "Value" "mx-alps-fut" (at 196.4182 138.4554 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 179.705 142.875 0)
@@ -6820,7 +6820,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_ALT_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_ALT_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -6852,13 +6852,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 179.07 142.24 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 179.07 142.24 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-0000614351a3)
     (property "Reference" "SW_SUP_1" (at 179.9082 136.5758 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 179.9082 138.4554 0)
+    (property "Value" "mx-alps-fut" (at 179.9082 138.4554 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 163.195 142.875 0)
@@ -6872,7 +6872,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_SUP_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_SUP_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -6904,13 +6904,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 161.29 142.24 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 161.29 142.24 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-0000614351b0)
     (property "Reference" "SW_LS2_1" (at 162.1282 136.5758 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 162.1282 138.4554 0)
+    (property "Value" "mx-alps-fut" (at 162.1282 138.4554 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 145.415 142.875 0)
@@ -6924,19 +6924,19 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_LS2_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_LS2_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 213.36 142.24 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 213.36 142.24 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-0000614351c7)
     (property "Reference" "SW_SP1_1" (at 214.1982 136.5758 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 214.1982 138.4554 0)
+    (property "Value" "mx-alps-fut" (at 214.1982 138.4554 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 197.485 142.875 0)
@@ -6950,7 +6950,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_SP1_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_SP1_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -7008,13 +7008,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 300.99 161.29 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 300.99 161.29 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-0000614351e8)
     (property "Reference" "SW_KP2_1" (at 301.8282 155.6258 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 301.8282 157.5054 0)
+    (property "Value" "mx-alps-fut" (at 301.8282 157.5054 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 285.115 161.925 0)
@@ -7028,7 +7028,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_KP2_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_KP2_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -7060,13 +7060,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 283.21 161.29 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 283.21 161.29 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-0000614351f5)
     (property "Reference" "SW_DOWN_1" (at 284.0482 155.6258 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 284.0482 157.5054 0)
+    (property "Value" "mx-alps-fut" (at 284.0482 157.5054 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 267.335 161.925 0)
@@ -7080,7 +7080,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_DOWN_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_DOWN_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -7112,13 +7112,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 265.43 161.29 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 265.43 161.29 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000061435202)
     (property "Reference" "SW_WE_1" (at 266.2682 155.6258 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 266.2682 157.5054 0)
+    (property "Value" "mx-alps-fut" (at 266.2682 157.5054 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 249.555 161.925 0)
@@ -7132,7 +7132,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_WE_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_WE_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -7164,13 +7164,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 248.92 161.29 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 248.92 161.29 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006143520f)
     (property "Reference" "SW_SMI_1" (at 249.7582 155.6258 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 249.7582 157.5054 0)
+    (property "Value" "mx-alps-fut" (at 249.7582 157.5054 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 233.045 161.925 0)
@@ -7184,7 +7184,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_SMI_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_SMI_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -7216,13 +7216,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 231.14 161.29 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 231.14 161.29 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006143521c)
     (property "Reference" "SW_LT_1" (at 231.9782 155.6258 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 231.9782 157.5054 0)
+    (property "Value" "mx-alps-fut" (at 231.9782 157.5054 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 215.265 161.925 0)
@@ -7236,7 +7236,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_LT_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_LT_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -7268,13 +7268,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 195.58 161.29 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 195.58 161.29 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000061435229)
     (property "Reference" "SW_V_1" (at 196.4182 155.6258 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 196.4182 157.5054 0)
+    (property "Value" "mx-alps-fut" (at 196.4182 157.5054 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 179.705 161.925 0)
@@ -7288,7 +7288,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_V_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_V_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -7320,13 +7320,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 179.07 161.29 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 179.07 161.29 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000061435236)
     (property "Reference" "SW_X_1" (at 179.9082 155.6258 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 179.9082 157.5054 0)
+    (property "Value" "mx-alps-fut" (at 179.9082 157.5054 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 163.195 161.925 0)
@@ -7340,7 +7340,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_X_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_X_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -7372,13 +7372,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 161.29 161.29 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 161.29 161.29 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000061435243)
     (property "Reference" "SW_CPS_1" (at 162.1282 155.6258 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 162.1282 157.5054 0)
+    (property "Value" "mx-alps-fut" (at 162.1282 157.5054 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 145.415 161.925 0)
@@ -7392,19 +7392,19 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_CPS_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_CPS_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 213.36 161.29 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 213.36 161.29 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006143525a)
     (property "Reference" "SW_N_1" (at 214.1982 155.6258 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 214.1982 157.5054 0)
+    (property "Value" "mx-alps-fut" (at 214.1982 157.5054 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 197.485 161.925 0)
@@ -7418,7 +7418,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_N_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_N_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -7476,13 +7476,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 300.99 180.34 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 300.99 180.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006143527b)
     (property "Reference" "SW_KP5_1" (at 301.8282 174.6758 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 301.8282 176.5554 0)
+    (property "Value" "mx-alps-fut" (at 301.8282 176.5554 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 285.115 180.975 0)
@@ -7496,7 +7496,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_KP5_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_KP5_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -7528,13 +7528,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 283.21 180.34 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 283.21 180.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-000061435288)
     (property "Reference" "SW_UP_1" (at 284.0482 174.6758 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 284.0482 176.5554 0)
+    (property "Value" "mx-alps-fut" (at 284.0482 176.5554 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 267.335 180.975 0)
@@ -7548,7 +7548,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_UP_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_UP_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -7580,13 +7580,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 248.92 180.34 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 248.92 180.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-0000614352a2)
     (property "Reference" "SW_AT_1" (at 249.7582 174.6758 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 249.7582 176.5554 0)
+    (property "Value" "mx-alps-fut" (at 249.7582 176.5554 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 233.045 180.975 0)
@@ -7600,7 +7600,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_AT_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_AT_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -7632,13 +7632,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 231.14 180.34 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 231.14 180.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-0000614352af)
     (property "Reference" "SW_K_1" (at 231.9782 174.6758 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 231.9782 176.5554 0)
+    (property "Value" "mx-alps-fut" (at 231.9782 176.5554 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 215.265 180.975 0)
@@ -7652,7 +7652,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_K_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_K_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -7684,13 +7684,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 195.58 180.34 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 195.58 180.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-0000614352bc)
     (property "Reference" "SW_F_1" (at 196.4182 174.6758 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 196.4182 176.5554 0)
+    (property "Value" "mx-alps-fut" (at 196.4182 176.5554 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 179.705 180.975 0)
@@ -7704,7 +7704,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_F_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_F_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -7736,13 +7736,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 179.07 180.34 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 179.07 180.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-0000614352c9)
     (property "Reference" "SW_S_1" (at 179.9082 174.6758 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 179.9082 176.5554 0)
+    (property "Value" "mx-alps-fut" (at 179.9082 176.5554 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 163.195 180.975 0)
@@ -7756,7 +7756,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_S_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_S_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -7788,13 +7788,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 161.29 180.34 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 161.29 180.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-0000614352d6)
     (property "Reference" "SW_Q_1" (at 162.1282 174.6758 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 162.1282 176.5554 0)
+    (property "Value" "mx-alps-fut" (at 162.1282 176.5554 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 145.415 180.975 0)
@@ -7808,19 +7808,19 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_Q_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_Q_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 213.36 180.34 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 213.36 180.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-0000614352ed)
     (property "Reference" "SW_H_1" (at 214.1982 174.6758 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 214.1982 176.5554 0)
+    (property "Value" "mx-alps-fut" (at 214.1982 176.5554 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 197.485 180.975 0)
@@ -7834,7 +7834,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_H_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_H_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -7892,13 +7892,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 300.99 199.39 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 300.99 199.39 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006145a205)
     (property "Reference" "SW_KP8_1" (at 301.8282 193.7258 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 301.8282 195.6054 0)
+    (property "Value" "mx-alps-fut" (at 301.8282 195.6054 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 285.115 200.025 0)
@@ -7912,7 +7912,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_KP8_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_KP8_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -7944,13 +7944,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 265.43 199.39 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 265.43 199.39 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006145a21f)
     (property "Reference" "SW_ET_1" (at 266.2682 193.7258 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 266.2682 195.6054 0)
+    (property "Value" "mx-alps-fut" (at 266.2682 195.6054 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 249.555 200.025 0)
@@ -7964,7 +7964,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_ET_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_ET_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -7996,13 +7996,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 248.92 199.39 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 248.92 199.39 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006145a22c)
     (property "Reference" "SW_MN_1" (at 249.7582 193.7258 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 249.7582 195.6054 0)
+    (property "Value" "mx-alps-fut" (at 249.7582 195.6054 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 233.045 200.025 0)
@@ -8016,7 +8016,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_MN_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_MN_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -8048,13 +8048,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 231.14 199.39 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 231.14 199.39 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006145a239)
     (property "Reference" "SW_O_1" (at 231.9782 193.7258 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 231.9782 195.6054 0)
+    (property "Value" "mx-alps-fut" (at 231.9782 195.6054 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 215.265 200.025 0)
@@ -8068,7 +8068,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_O_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_O_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -8100,13 +8100,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 195.58 199.39 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 195.58 199.39 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006145a246)
     (property "Reference" "SW_T_1" (at 196.4182 193.7258 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 196.4182 195.6054 0)
+    (property "Value" "mx-alps-fut" (at 196.4182 195.6054 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 179.705 200.025 0)
@@ -8120,7 +8120,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_T_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_T_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -8152,13 +8152,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 179.07 199.39 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 179.07 199.39 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006145a253)
     (property "Reference" "SW_E_1" (at 179.9082 193.7258 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 179.9082 195.6054 0)
+    (property "Value" "mx-alps-fut" (at 179.9082 195.6054 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 163.195 200.025 0)
@@ -8172,7 +8172,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_E_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_E_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -8204,13 +8204,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 161.29 199.39 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 161.29 199.39 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006145a260)
     (property "Reference" "SW_1_1" (at 162.1282 193.7258 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 162.1282 195.6054 0)
+    (property "Value" "mx-alps-fut" (at 162.1282 195.6054 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 145.415 200.025 0)
@@ -8224,19 +8224,19 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_1_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_1_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 213.36 199.39 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 213.36 199.39 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006145a277)
     (property "Reference" "SW_U_1" (at 214.1982 193.7258 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 214.1982 195.6054 0)
+    (property "Value" "mx-alps-fut" (at 214.1982 195.6054 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 197.485 200.025 0)
@@ -8250,7 +8250,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_U_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_U_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -8308,13 +8308,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 318.77 199.39 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 318.77 199.39 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006145a28b)
     (property "Reference" "SW_KPMULT_1" (at 319.6082 193.7258 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 319.6082 195.6054 0)
+    (property "Value" "mx-alps-fut" (at 319.6082 195.6054 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 302.895 200.025 0)
@@ -8328,7 +8328,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_KPMULT_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_KPMULT_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -8360,13 +8360,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 300.99 218.44 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 300.99 218.44 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006145a298)
     (property "Reference" "SW_KPHELP1" (at 301.8282 212.7758 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 301.8282 214.6554 0)
+    (property "Value" "mx-alps-fut" (at 301.8282 214.6554 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 285.115 219.075 0)
@@ -8380,7 +8380,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_KPHELP1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_KPHELP1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -8412,13 +8412,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 265.43 218.44 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 265.43 218.44 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006145a2b2)
     (property "Reference" "SW_DEL_1" (at 266.2682 212.7758 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 266.2682 214.6554 0)
+    (property "Value" "mx-alps-fut" (at 266.2682 214.6554 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 249.555 219.075 0)
@@ -8432,7 +8432,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_DEL_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_DEL_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -8464,13 +8464,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 248.92 218.44 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 248.92 218.44 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006145a2bf)
     (property "Reference" "SW_CAR_1" (at 249.7582 212.7758 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 249.7582 214.6554 0)
+    (property "Value" "mx-alps-fut" (at 249.7582 214.6554 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 233.045 219.075 0)
@@ -8484,7 +8484,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_CAR_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_CAR_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -8516,13 +8516,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 231.14 218.44 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 231.14 218.44 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006145a2cc)
     (property "Reference" "SW_9_1" (at 231.9782 212.7758 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 231.9782 214.6554 0)
+    (property "Value" "mx-alps-fut" (at 231.9782 214.6554 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 215.265 219.075 0)
@@ -8536,7 +8536,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_9_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_9_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -8568,13 +8568,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 195.58 218.44 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 195.58 218.44 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006145a2d9)
     (property "Reference" "SW_5_1" (at 196.4182 212.7758 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 196.4182 214.6554 0)
+    (property "Value" "mx-alps-fut" (at 196.4182 214.6554 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 179.705 219.075 0)
@@ -8588,7 +8588,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_5_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_5_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -8620,13 +8620,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 179.07 218.44 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 179.07 218.44 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006145a2e6)
     (property "Reference" "SW_3_1" (at 179.9082 212.7758 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 179.9082 214.6554 0)
+    (property "Value" "mx-alps-fut" (at 179.9082 214.6554 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 163.195 219.075 0)
@@ -8640,7 +8640,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_3_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_3_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -8672,13 +8672,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 161.29 218.44 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 161.29 218.44 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006145a2f3)
     (property "Reference" "SW_CPY_1" (at 162.1282 212.7758 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 162.1282 214.6554 0)
+    (property "Value" "mx-alps-fut" (at 162.1282 214.6554 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 145.415 219.075 0)
@@ -8692,7 +8692,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_CPY_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_CPY_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -8724,13 +8724,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 318.77 218.44 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 318.77 218.44 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006145a31e)
     (property "Reference" "SW_KPDIV_1" (at 319.6082 212.7758 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 319.6082 214.6554 0)
+    (property "Value" "mx-alps-fut" (at 319.6082 214.6554 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 302.895 219.075 0)
@@ -8744,7 +8744,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_KPDIV_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_KPDIV_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -9180,13 +9180,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 318.77 142.24 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 318.77 142.24 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 045dc86d-b269-41b1-9424-1a177a9b131f)
     (property "Reference" "SW_KPENT_1" (at 319.6082 136.5758 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 319.6082 138.4554 0)
+    (property "Value" "mx-alps-fut" (at 319.6082 138.4554 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 302.895 142.875 0)
@@ -9200,7 +9200,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_KPENT_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_KPENT_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -9257,13 +9257,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 318.77 180.34 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 318.77 180.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 204e0ee4-dec0-4dc2-b622-9ea13958f955)
     (property "Reference" "SW_KPPLUS_1" (at 319.6082 174.6758 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 319.6082 176.5554 0)
+    (property "Value" "mx-alps-fut" (at 319.6082 176.5554 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 302.895 180.975 0)
@@ -9277,19 +9277,19 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_KPPLUS_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_KPPLUS_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 213.36 218.44 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 213.36 218.44 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 26ed6fdb-0535-4e34-a1a6-ce5c6207a6fe)
     (property "Reference" "SW_7_1" (at 214.1982 212.7758 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 214.1982 214.6554 0)
+    (property "Value" "mx-alps-fut" (at 214.1982 214.6554 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 197.485 219.075 0)
@@ -9303,7 +9303,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_7_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_7_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -9601,13 +9601,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 318.77 161.29 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 318.77 161.29 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 764d3922-6c3b-4ad1-99f1-13051e884ac2)
     (property "Reference" "SW_KPEQ_1" (at 319.6082 155.6258 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 319.6082 157.5054 0)
+    (property "Value" "mx-alps-fut" (at 319.6082 157.5054 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 302.895 161.925 0)
@@ -9621,7 +9621,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_KPEQ_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_KPEQ_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )
@@ -9774,13 +9774,13 @@
     )
   )
 
-  (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 318.77 46.99 0) (unit 1)
+  (symbol (lib_id "MX_Alps_Hybrid:mx-alps-fut") (at 318.77 46.99 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d9f4f40a-1bee-48aa-9eba-3ffd5bcb4240)
     (property "Reference" "SW_KPMIN_1" (at 319.6082 41.3258 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 319.6082 43.2054 0)
+    (property "Value" "mx-alps-fut" (at 319.6082 43.2054 0)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "MX_NEC:MX_NEC" (at 302.895 47.625 0)
@@ -9794,7 +9794,7 @@
     (instances
       (project "necpc8801mkiisr"
         (path "/151da08b-0979-4785-a9bf-6fa9b165d629"
-          (reference "SW_KPMIN_1") (unit 1) (value "MX-NoLED") (footprint "MX_NEC:MX_NEC")
+          (reference "SW_KPMIN_1") (unit 1) (value "mx-alps-fut") (footprint "MX_NEC:MX_NEC")
         )
       )
     )

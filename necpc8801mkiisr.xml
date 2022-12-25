@@ -1150,945 +1150,945 @@
       <tstamps>00000000-0000-0000-0000-00006127121f</tstamps>
     </comp>
     <comp ref="SW_0">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006139a647</tstamps>
     </comp>
     <comp ref="SW_1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a386</tstamps>
     </comp>
     <comp ref="SW_2">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006139a66e</tstamps>
     </comp>
     <comp ref="SW_3">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a2e6</tstamps>
     </comp>
     <comp ref="SW_4">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006139a661</tstamps>
     </comp>
     <comp ref="SW_5">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a2d9</tstamps>
     </comp>
     <comp ref="SW_6">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006139a692</tstamps>
     </comp>
     <comp ref="SW_7">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a277</tstamps>
     </comp>
     <comp ref="SW_8">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006139a654</tstamps>
     </comp>
     <comp ref="SW_9">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a2cc</tstamps>
     </comp>
     <comp ref="SW_A1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a260</tstamps>
     </comp>
     <comp ref="SW_APOS1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614352a2</tstamps>
     </comp>
     <comp ref="SW_B1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061435229</tstamps>
     </comp>
     <comp ref="SW_BACKSP1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-2U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a2b2</tstamps>
     </comp>
     <comp ref="SW_BKSLS1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1.5U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407afe</tstamps>
     </comp>
     <comp ref="SW_C1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061435236</tstamps>
     </comp>
     <comp ref="SW_CAP1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1.75U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407b3f</tstamps>
     </comp>
     <comp ref="SW_COLON1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407b0b</tstamps>
     </comp>
     <comp ref="SW_COMMA1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614350f6</tstamps>
     </comp>
     <comp ref="SW_D1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614352c9</tstamps>
     </comp>
     <comp ref="SW_DEL1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061435295</tstamps>
     </comp>
     <comp ref="SW_DOWN1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614350cf</tstamps>
     </comp>
     <comp ref="SW_E1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a253</tstamps>
     </comp>
     <comp ref="SW_END1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407a5e</tstamps>
     </comp>
     <comp ref="SW_ENTER1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-2.25U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614350dc</tstamps>
     </comp>
     <comp ref="SW_EQ1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006139a63a</tstamps>
     </comp>
     <comp ref="SW_ESC1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061242a16</tstamps>
     </comp>
     <comp ref="SW_F1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006125bb43</tstamps>
     </comp>
     <comp ref="SW_F2">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a379</tstamps>
     </comp>
     <comp ref="SW_F3">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061261aba</tstamps>
     </comp>
     <comp ref="SW_F4">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a36c</tstamps>
     </comp>
     <comp ref="SW_F5">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061261ac7</tstamps>
     </comp>
     <comp ref="SW_F6">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a39d</tstamps>
     </comp>
     <comp ref="SW_F7">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061266828</tstamps>
     </comp>
     <comp ref="SW_F8">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a35f</tstamps>
     </comp>
     <comp ref="SW_F9">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061266835</tstamps>
     </comp>
     <comp ref="SW_F10">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a352</tstamps>
     </comp>
     <comp ref="SW_F11">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061266842</tstamps>
     </comp>
     <comp ref="SW_F12">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a345</tstamps>
     </comp>
     <comp ref="SW_F13">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407b25</tstamps>
     </comp>
     <comp ref="SW_G1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614352bc</tstamps>
     </comp>
     <comp ref="SW_H1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407b56</tstamps>
     </comp>
     <comp ref="SW_HOME1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006139a62d</tstamps>
     </comp>
     <comp ref="SW_I1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407a85</tstamps>
     </comp>
     <comp ref="SW_INS1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a21f</tstamps>
     </comp>
     <comp ref="SW_J1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006143525a</tstamps>
     </comp>
     <comp ref="SW_K1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407b18</tstamps>
     </comp>
     <comp ref="SW_KP0">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-2U-ReversedStabilizers-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614351f5</tstamps>
     </comp>
     <comp ref="SW_KP1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061435288</tstamps>
     </comp>
     <comp ref="SW_KP2">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614350c2</tstamps>
     </comp>
     <comp ref="SW_KP3">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614351e8</tstamps>
     </comp>
     <comp ref="SW_KP4">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407ae4</tstamps>
     </comp>
     <comp ref="SW_KP5">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a205</tstamps>
     </comp>
     <comp ref="SW_KP6">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006143527b</tstamps>
     </comp>
     <comp ref="SW_KP7">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407a51</tstamps>
     </comp>
     <comp ref="SW_KP8">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a298</tstamps>
     </comp>
     <comp ref="SW_KP9">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407a44</tstamps>
     </comp>
     <comp ref="SW_KPASTR1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a31e</tstamps>
     </comp>
     <comp ref="SW_KPENTER1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-2U-ReversedStabilizers-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614350b5</tstamps>
     </comp>
     <comp ref="SW_KPEQ1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a32b</tstamps>
     </comp>
     <comp ref="SW_KPMINUS1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a28b</tstamps>
     </comp>
     <comp ref="SW_KPPER1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061435155</tstamps>
     </comp>
     <comp ref="SW_KPPLUS1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407ad7</tstamps>
     </comp>
     <comp ref="SW_KPSLASH1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006139a613</tstamps>
     </comp>
     <comp ref="SW_L1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614352af</tstamps>
     </comp>
     <comp ref="SW_LALT1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1.5U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614351a3</tstamps>
     </comp>
     <comp ref="SW_LBRAC1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a22c</tstamps>
     </comp>
     <comp ref="SW_LCTR1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1.5U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614351b0</tstamps>
     </comp>
     <comp ref="SW_LEFT1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061435202</tstamps>
     </comp>
     <comp ref="SW_LMOD1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1.25U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061435243</tstamps>
     </comp>
     <comp ref="SW_LSH1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-2.25U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006143511d</tstamps>
     </comp>
     <comp ref="SW_M1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614351c7</tstamps>
     </comp>
     <comp ref="SW_MINUS1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a2bf</tstamps>
     </comp>
     <comp ref="SW_N1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061435134</tstamps>
     </comp>
     <comp ref="SW_NUMLK1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006139a620</tstamps>
     </comp>
     <comp ref="SW_O1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a239</tstamps>
     </comp>
     <comp ref="SW_P1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407a78</tstamps>
     </comp>
     <comp ref="SW_PAUSE1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006126a47a</tstamps>
     </comp>
     <comp ref="SW_PERIOD1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006143521c</tstamps>
     </comp>
     <comp ref="SW_PGDN1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a212</tstamps>
     </comp>
     <comp ref="SW_PGUP1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a2a5</tstamps>
     </comp>
     <comp ref="SW_POW1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006126a487</tstamps>
     </comp>
     <comp ref="SW_PRSC1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006126684f</tstamps>
     </comp>
     <comp ref="SW_Q1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a2f3</tstamps>
     </comp>
     <comp ref="SW_R1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407a92</tstamps>
     </comp>
     <comp ref="SW_RALT1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1.5U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061435189</tstamps>
     </comp>
     <comp ref="SW_RBRAC1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407a6b</tstamps>
     </comp>
     <comp ref="SW_RCTR1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1.5U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006143516f</tstamps>
     </comp>
     <comp ref="SW_RIGHT1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061435162</tstamps>
     </comp>
     <comp ref="SW_RMOD1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1.25U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006143517c</tstamps>
     </comp>
     <comp ref="SW_RSH1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-2.75U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006143520f</tstamps>
     </comp>
     <comp ref="SW_S1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407b32</tstamps>
     </comp>
     <comp ref="SW_SCLK1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a338</tstamps>
     </comp>
     <comp ref="SW_SLASH1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614350e9</tstamps>
     </comp>
     <comp ref="SW_SPACE1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-6.5U-ReversedStabilizers-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061435196</tstamps>
     </comp>
     <comp ref="SW_T1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006145a246</tstamps>
     </comp>
     <comp ref="SW_TAB1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1.5U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407aac</tstamps>
     </comp>
     <comp ref="SW_TICK1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00006139a67b</tstamps>
     </comp>
     <comp ref="SW_U1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000614352ed</tstamps>
     </comp>
     <comp ref="SW_UP1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407af1</tstamps>
     </comp>
     <comp ref="SW_V1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061435103</tstamps>
     </comp>
     <comp ref="SW_W1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407a9f</tstamps>
     </comp>
     <comp ref="SW_X1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061435110</tstamps>
     </comp>
     <comp ref="SW_Y1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061407ac3</tstamps>
     </comp>
     <comp ref="SW_Z1">
-      <value>MX-NoLED</value>
+      <value>mx-alps-fut</value>
       <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <libsource lib="MX_Alps_Hybrid" part="mx-alps-fut" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="/misc/keyboards/necpc8801mkiisrinear/necpc8801mkiisr.sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -2262,10 +2262,10 @@
         <pin num="2" name="" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="MX_Alps_Hybrid" part="MX-NoLED">
+    <libpart lib="MX_Alps_Hybrid" part="mx-alps-fut">
       <fields>
         <field name="Reference">MX</field>
-        <field name="Value">MX-NoLED</field>
+        <field name="Value">mx-alps-fut</field>
       </fields>
       <pins>
         <pin num="1" name="COL" type="passive"/>
